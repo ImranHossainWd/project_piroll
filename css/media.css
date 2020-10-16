@@ -1,0 +1,261 @@
+ 
+
+
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+header {
+    background-position: 40%;
+}
+.menu ul li a {
+    margin: 0 0px;
+    padding: 0 10px !important;
+    text-align: right;
+}
+
+
+.banner {
+    margin-top: 40px;
+    padding-bottom: 90px;
+}
+.banner h1 {
+    font-size: 20px;
+ 
+}
+.banner p {
+    /*color: white;*/
+    font-size: 14px;
+}
+
+.banner button {
+    font-size: 14px;
+}
+/*header end*/
+/*about start*/
+.about {
+    padding: 50px 0;
+}
+.c_header {
+    font-size: 20px;
+}
+/*about end*/
+/*skill start*/
+.skill {
+    padding: 50px 0;
+}
+.skill_c h1 {
+    font-size: 20px;
+    text-align: center;
+}
+/*skill end*/
+/*achieve start*/
+.achieve {
+    padding: 50px 0;
+}
+.m_b{
+	margin-bottom: 20px;
+}
+
+/*achieve end*/	
+/*work start*/
+.load_t a {
+    font-size: 14px;
+} 
+/*work end*/
+/*process start*/
+.process {
+    padding: 50px 0;
+}
+/*process end*/
+/*features start*/
+.features {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.f_list {
+    margin-top: 43px;
+}
+.f_list i{
+	font-size: 35px;
+}
+.f_list h4 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+/*features end*/
+/*slider start*/
+.slider_test {
+    padding: 50px 0;
+}
+.slider_c p {
+    font-size: 14px;
+}
+.slider_name {
+    font-size: 10px !important;
+}
+.cid{
+bottom: -50px !important;
+}
+.cid li {
+    width: 8px;
+    height: 8px;
+}
+/*slider end*/
+/*client logo start*/
+.client {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.client_l {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+/*client logo end*/
+/*contact start*/
+.contact {
+    padding: 50px 0;
+}
+.f_input {
+    margin-bottom: 15px;
+}
+/*contact end*/
+/*footer start*/
+footer {
+    padding: 60px 0;
+}
+/*footer end*/
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+header {
+    background-position: 53%;
+}
+.menu ul li a {
+    margin: 0 0px;
+    padding: 0 10px !important;
+    text-align: right;
+}
+
+.banner {
+    margin-top: 50px;
+    padding-bottom: 150px;
+}
+
+.banner h1 {
+    font-size: 25px;
+ 
+}
+.banner p {
+    font-size: 16px;
+}
+.banner button {
+    font-size: 14px;
+}
+/*header end*/
+/*about start*/
+.about {
+    padding: 60px 0;
+}
+.c_header {
+    font-size: 25px;
+}
+/*about end*/
+/*skill start*/
+.skill {
+    padding: 60px 0;
+}
+.skill_c h1 {
+    font-size: 25px;
+}
+/*skill end*/
+/*achieve start*/
+.achieve {
+    padding: 60px 0;
+}
+.m_b{
+	margin-bottom: 25px;
+}
+
+/*achieve end*/
+/*process start*/
+.process {
+    padding: 60px 0;
+}
+/*process end*/
+/*features start*/
+.features {
+    padding-top: 10px;
+    padding-bottom: 60px;
+}
+/*features end*/
+/*slider start*/
+.slider_test {
+    padding: 60px 0;
+}
+.cid{
+bottom: -60px !important;
+}
+.cid li {
+    width: 8px;
+    height: 8px;
+}
+/*slider end*/
+/*client logo start*/
+.client {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.client_l {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+/*client logo end*/
+/*contact start*/
+.contact {
+    padding: 60px 0;
+}
+/*contact end*/
+/*footer start*/
+footer {
+    padding: 60px 0;
+}
+/*footer end*/
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+header {
+    background-position: 50%;
+}
+.menu ul li a {
+    margin: 0 0px;
+    padding: 0 10px !important;
+    text-align: right;
+}
+
+
+/*header end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+ }
